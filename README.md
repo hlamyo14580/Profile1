@@ -2,3 +2,4 @@
 SQL-PBI ,
 Big Query-Looker Studio ,
 SQL - Tableau
+Python
