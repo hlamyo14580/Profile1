@@ -1,7 +1,4 @@
-# Dashboard Screenshots
-
-🏗️ Construction Project Performance Dashboard | Power BI
-Executive Overview
+🏗️ # **Construction Project Performance Dashboard | Power BI Executive Overview**
 
 A Power BI project-performance solution designed to help project management monitor project progress, schedule performance, and budget utilization across a construction portfolio.
 
@@ -25,7 +22,8 @@ Spending	$228.30M
 Remaining Balance	$44.69M
 Budget Utilization	83.72%
 Cost / Completed Task	$90.52K
-1️⃣ Project Detail
+
+1️⃣ **Project Detail**  
 Business Question
 
 How much work has been completed, and where should management focus?
@@ -45,7 +43,7 @@ Management Takeaway
 
 The immediate priority is not simply increasing task completion—it is ensuring that the right tasks are started and completed in the right sequence.
 
-2️⃣ Project Timeline
+2️⃣ **Project Timeline**  
 Business Question
 
 Are project activities progressing according to the planned timeline?
@@ -63,8 +61,8 @@ Management Takeaway
 
 Schedule control should be proactive: identify activities that can create future delays before they become project-level problems.
 
-3️⃣ Project Budget
-Business Question
+3️⃣ **Project Budget**  
+Business Question 
 
 How much of the project budget has been consumed, and is spending aligned with project progress?
 
@@ -84,12 +82,15 @@ Management Takeaway
 
 High budget utilization should be reviewed together with physical progress and remaining workload—not evaluated in isolation.
 
-🎯 Cross-Dashboard Management Findings
+
+🎯 **Cross-Dashboard Management Findings**
+
 Finding 1 — Large Remaining Workload
 
 50.3% of tasks are still uninitiated.
 
 ➡️ Management should understand why these activities have not started and whether they are aligned with the project schedule.
+
 
 Finding 2 — Progress Requires Attention
 
@@ -97,11 +98,13 @@ Only 25.2% of tasks are completed.
 
 ➡️ Completion should be monitored against planned milestones rather than using task count alone.
 
+
 Finding 3 — Significant Budget Already Consumed
 
 83.72% of the budget has been utilized.
 
 ➡️ Remaining budget should be continuously compared with the remaining workload and expected future commitments.
+
 
 Finding 4 — Progress and Cost Must Be Viewed Together
 
@@ -109,13 +112,15 @@ The dashboard brings physical progress + timeline + financial performance into o
 
 ➡️ This allows management to investigate whether cost consumption is aligned with actual project progress.
 
+
 🧠 Senior Data Analyst Perspective
 
 The most important lesson from this project is:
 
 A dashboard should not stop at “What happened?” It should help management answer “So what?” and “What should we do next?”
 
-My analytical approach
+
+**My analytical approach**
 
 1. Monitor →
 Track project KPIs and operational status.
@@ -135,7 +140,8 @@ Recommend resource, schedule or cost-control actions.
 6. Monitor Again →
 Track whether corrective actions improve performance.
 
-📌 Recommended Management Meeting Approach
+
+📌 **Recommended Management Meeting Approach**
 
 Instead of presenting every chart, I would brief the Project Director in this order:
 
@@ -143,23 +149,28 @@ Instead of presenting every chart, I would brief the Project Director in this or
 
 “We currently have 10,000 tracked tasks across 4 projects. 25.2% are completed, while 50.3% remain uninitiated.”
 
+
 2. Explain the schedule position
 
 “The timeline identifies activities requiring closer monitoring, particularly blocked or delayed work that could affect downstream activities.”
+
 
 3. Explain financial exposure
 
 “$228.30M of the $272.99M budget has been spent, representing 83.72% utilization.”
 
+
 4. Connect the signals
 
 “The key management question is whether remaining work can be completed within the remaining budget and planned schedule.”
+
 
 5. Recommend action
 
 “I recommend prioritizing high-impact uninitiated/blocked activities, reviewing resource allocation, and conducting tighter budget-versus-progress monitoring.”
 
-💡 Final Business Wisdom
+
+💡 **Final Business Wisdom**
 
 Project performance is not one KPI.
 
@@ -173,6 +184,7 @@ It provides management with a structured way to:
 
 See the problem → Understand the impact → Prioritize the response → Monitor the outcome.
 
+
 🛠️ Tools & Skills Demonstrated
 Power BI
 Power Query / ETL
@@ -185,3 +197,6 @@ Budget & Cost Analysis
 Data Visualization
 Executive Data Storytelling
 Management Decision Support
+
+**One important senior-level point**
+I would not claim from the dashboard that the projects are already “over budget” or that the 83.72% utilization is definitely a problem. The dashboard proves the spending/utilization figures, but whether that is healthy depends on how far the projects should have progressed at the same point in time.
